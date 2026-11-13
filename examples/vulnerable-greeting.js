@@ -1,7 +1,8 @@
-// TRAINING EXAMPLE - INTENTIONALLY VULNERABLE - DO NOT USE IN PRODUCTION
-// Used by this repository's published security advisory (GHSA demo) to show
-// what an unsanitised redirect / HTML injection sink looks like.
+// TRAINING EXAMPLE - FIXED VERSION (see the repository security advisory)
+// The original version wrote untrusted input with document.write, which is an
+// HTML injection sink. This version assigns through textContent instead, so
+// the input is rendered as inert text.
 function renderGreeting(name) {
-  // Vulnerable: untrusted input written straight into the page.
-  document.write("Hello " + name);
+  const el = document.getElementById("greeting");
+  el.textContent = "Hello " + name;
 }
