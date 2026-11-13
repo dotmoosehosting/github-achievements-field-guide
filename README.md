@@ -1,2 +1,57 @@
-# github-achievements-field-guide
-A practical field guide to GitHub profile achievements: every badge, its tiers, and how each one is earned, with a worked FAQ.
+# GitHub Achievements Field Guide
+
+A practical field guide to GitHub profile achievements: every badge, its tiers, and how each one is earned.
+The FAQ lives in this repository's Discussions tab, as Q&A threads with accepted answers.
+
+## Sections
+
+1. [Pull Shark: merged pull requests](sections/01-pull-shark.md)
+2. [Starstruck: stars on a repository you created](sections/02-starstruck.md)
+3. [Pair Extraordinaire: co-authored commits in merged pull requests](sections/03-pair-extraordinaire.md)
+4. [Galaxy Brain: accepted answers in Discussions](sections/04-galaxy-brain.md)
+5. [Quickdraw: close fast](sections/05-quickdraw.md)
+6. [YOLO: merge without a review](sections/06-yolo.md)
+7. [Arctic Code Vault Contributor (retired)](sections/07-arctic-code-vault.md)
+8. [Mars 2020 Contributor (retired)](sections/08-mars-2020.md)
+9. [Heart On Your Sleeve (unreleased)](sections/09-heart-on-your-sleeve.md)
+10. [Open Sourcerer (unreleased)](sections/10-open-sourcerer.md)
+11. [Highlight: Security Advisory Credit](sections/11-security-advisory-credit.md)
+12. [Highlight: Developer Program Member](sections/12-developer-program.md)
+13. [Highlight: Public Sponsor](sections/13-public-sponsor.md)
+14. [Highlight: Pro](sections/14-pro-highlight.md)
+15. [How tiers work: Default, Bronze, Silver, Gold](sections/15-tiers-explained.md)
+16. [How and when badges are awarded](sections/16-how-badges-are-awarded.md)
+17. [The private contributions setting](sections/17-private-contributions.md)
+18. [Achievements are not README badges](sections/18-achievements-vs-readme.md)
+19. [Checking your achievements](sections/19-checking-your-achievements.md)
+20. [Pull Shark Bronze: the road to 16 merged pull requests](sections/20-pull-shark-bronze-route.md)
+21. [Pull Shark Silver: 128 merged pull requests](sections/21-pull-shark-silver-route.md)
+22. [Pull Shark Gold: 1024 merged pull requests](sections/22-pull-shark-gold-route.md)
+23. [Starstruck Bronze: getting a repository to 128 stars](sections/23-starstruck-bronze-route.md)
+24. [Starstruck Silver and Gold: 512 and 4096 stars](sections/24-starstruck-higher-tiers.md)
+25. [Galaxy Brain Bronze: 8 accepted answers](sections/25-galaxy-brain-bronze-route.md)
+26. [Writing answers that get accepted](sections/26-galaxy-brain-etiquette.md)
+27. [Pair Extraordinaire Bronze: 10 co-authored merged pull requests](sections/27-pair-bronze-route.md)
+28. [Pair Extraordinaire Silver and Gold: 24 and 48](sections/28-pair-higher-tiers.md)
+29. [The co-author trailer format, exactly](sections/29-coauthor-trailer-format.md)
+30. [Quickdraw notes](sections/30-quickdraw-notes.md)
+31. [YOLO notes: branch protection changes everything](sections/31-yolo-notes.md)
+32. [Setting up Discussions with a Q&A category](sections/32-discussions-setup.md)
+33. [How accepted answers work](sections/33-accepted-answer-mechanics.md)
+34. [Reactions, and the heart in particular](sections/34-reactions-and-heart.md)
+35. [What counts: public versus private activity](sections/35-public-vs-private.md)
+36. [Achievements belong to personal accounts](sections/36-orgs-vs-personal.md)
+37. [How badges display on your profile](sections/37-badge-display.md)
+38. [Frozen, retired, and unreleased badges: the honest list](sections/38-frozen-and-unreleased.md)
+39. [What not to do: spam, alts, and purchased engagement](sections/39-spam-and-tos.md)
+40. [Earning Pull Shark honestly in other people's projects](sections/40-good-first-contributions.md)
+41. [Documentation: the underrated contribution](sections/41-docs-contributions.md)
+42. [The FAQ lives in Discussions](sections/42-faq-pointer.md)
+43. [Checklist: every base achievement](sections/43-checklist-base.md)
+44. [Checklist: Bronze tier](sections/44-checklist-bronze.md)
+45. [Checklist: Silver tier](sections/45-checklist-silver.md)
+46. [Checklist: Gold tier](sections/46-checklist-gold.md)
+47. [Sources and verification](sections/47-sources.md)
+
+## Status of this project
+Each section landed through its own co-authored pull request. See the Pull Requests tab for the full history.
